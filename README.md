@@ -6,3 +6,7 @@ This repository hosts the [wiki](https://github.com/dkt-projekt/technical-discus
 
 * [DKT project homepage](http://digitale-kuratierung.de/)
 * [Overview of DKT on GitHub](https://github.com/dkt-projekt/technical-discussion/wiki/DKT-on-GitHub)
+
+## Releases
+
+* [Relese 0.3](https://github.com/dkt-projekt/technical-discussion/wiki/Release-0.3)
