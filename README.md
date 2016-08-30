@@ -4,6 +4,7 @@ This repository hosts the [wiki](https://github.com/dkt-projekt/technical-discus
 
 ## Useful links
 
+* [DKT FREME Services Overview](https://github.com/dkt-projekt/technical-discussion/wiki/DKT-FREME-Services-Overview)
 * [DKT project homepage](http://digitale-kuratierung.de/)
 * [Overview of DKT on GitHub](https://github.com/dkt-projekt/technical-discussion/wiki/DKT-on-GitHub)
 
