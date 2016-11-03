@@ -12,3 +12,4 @@ This repository hosts the [wiki](https://github.com/dkt-projekt/technical-discus
 
 * [Release 0.3](https://github.com/dkt-projekt/technical-discussion/wiki/Release-0.3)
 * [Release 0.4](https://github.com/dkt-projekt/technical-discussion/wiki/Release-0.4)
+* [Release 0.5](https://github.com/dkt-projekt/technical-discussion/wiki/Release-0.5)
